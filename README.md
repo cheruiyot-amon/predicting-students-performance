@@ -1,4 +1,4 @@
-# predicting-students-performance
+# predicting-students-performance using LinearRegression Algorithm
 This the readme for predicting students performance repo
 It has the table of contents
 # Table of Contents
