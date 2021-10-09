@@ -10,3 +10,4 @@ It has the table of contents
 # 6.Designing Algorithsm
 # 7.Predicting Algorith/ Making Predictions
 # 8.Evaluations of ALgorithm
+# 9.Data Visualization
